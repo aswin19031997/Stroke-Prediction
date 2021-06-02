@@ -1,8 +1,10 @@
 # Stroke-Prediction
 
 # Introduction
-•According to World Health Organization, stroke is the 2nd leading cause of death globally which approximates to 11% of total deaths.​
-•In the US, stroke is the leading cause of long-term adult disability and fifth leading cause of death which approximates to 795,000 stroke event every year with about 75% of them being the first-time strokes. ​
+•According to World Health Organization, stroke is the 2nd leading cause of death globally which approximates to 11% of total deaths.
+​
+•In the US, stroke is the leading cause of long-term adult disability and fifth leading cause of death which approximates to 795,000 stroke event every year with about 75% of them being the first-time strokes. 
+​
 •Study shows that strokes can be prevented 80% of the time, through proper education, on signs of the stroke. ​
 Hence, it’s critical that hospitals actively participate in Stroke prediction to eliminate treatment delays and improve outcomes for new and acute stroke patients.​
 
